@@ -20,9 +20,19 @@ The Stellar Development Foundation (“SDF”) will review submissions as they c
 
 Your submission should be coherent and easy to follow. If you are creating a tutorial, the audience needs to be able to follow along. If you are writing code, what it does should be clear. All content and contract code also need to be public (GitHub, dev.to, Medium, or YouTube).
 
-Awards will be based on the scope, complexity, and quality of the submission. That said, here is a rough idea of what certain types of submissions can earn.
+Awards will be based on the scope, complexity, and quality of the submission. Here is a breakdown of all content component options:
 
-If your submission is just contract (dApp) code, you are eligible to earn up to $300 worth of XLM. The award amount increases to up to $1,500 worth of XLM based on the accompanying content: from decent READMEs to published written tutorials on dev.to to video tutorials on YouTube. The more you include in your submission, the better!
+* Required: $300 worth of XLM for  contract (dApp) code
+* Optional: Add on $150 worth of XLM if your submission includes well-documented code, a decent README detailing how to build a dApp on Soroban, and a live interactive demo site
+* Optional: Add on $250 worth of XLM if your submission includes a tutorial on building a dApp with Soroban published on dev.to or Medium
+* Optional: Add on $800 worth of XLM if your submission includes a public video tutorial on building a dApp with Soroban on YouTube
+
+Submissions must contain contract (dApp) code but award amounts can be increased by including any or all of the additional content components. A couple of submission examples are:
+
+1. Contract (dApp) code ($300 worth of XLM) plus a published video tutorial ($800 worth of XLM) for a total of $1,100 worth of XLM;
+2. Contract (dApp) code ($300 worth of XLM) plus a decent README and interactive demo site ($150 worth of XLM), and a published written tutorial ($250 worth of XLM) for a total of $700 worth of XLM.
+   
+A submission is eligible to be awarded up to $1,500 if it contains all components.
 
 **Note:** SDF is under no obligation to make any awards if there are no eligible submissions or Eligible Individuals (as defined below), or if Eligible Individuals do not successfully complete the compliance and tax obligations set forth below.
 
