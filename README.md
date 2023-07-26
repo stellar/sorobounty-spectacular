@@ -8,9 +8,9 @@ For each qualified submission you create, you can earn an award of between $300 
 
 Here are the kind of submissions we're looking for:
 
-* Practical tutorials (such as this [DAO tutorial](https://docs.near.org/develop/relevant-contracts/dao) 
-* Fun dApp tutorials (such as this [adoption tracking system for a pet shop](https://trufflesuite.com/blog/learn-ethereum-the-fun-way-with-our-pet-shop-tutorial/)
-* Video walkthroughs (such as this one on creating a [simple smart contract using Solidity](https://www.youtube.com/watch?v=bNXJNeaYl8Q)
+* Practical tutorials (such as this [DAO tutorial](https://docs.near.org/develop/relevant-contracts/dao))
+* Fun dApp tutorials (such as this [adoption tracking system for a pet shop](https://trufflesuite.com/blog/learn-ethereum-the-fun-way-with-our-pet-shop-tutorial/))
+* Video walkthroughs (such as this one on creating a [simple smart contract using Solidity](https://www.youtube.com/watch?v=bNXJNeaYl8Q))
 
 Soroban is still in preview release and is live on Futurenet, a shared test network. You may encounter some problems as you are using the platform and various tools. We encourage you to report any problems or bugs you find in our [Stellar Developer Discord](https://discord.gg/stellardev) under the #soroban channels.
 
