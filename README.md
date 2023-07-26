@@ -1,6 +1,6 @@
 # Welcome to Sorobounty Spectacular! 🎡
 
-Between July 31 and August 18, you can earn awards for building decentralized applications (dApps) with Soroban on the Stellar network, accompanied by explanatory content (such as written tutorials, video walkthroughs, etc.). This program is part of the Stellar Development Foundation’s $100M Soroban Adoption Fund and is a precursor to Sorobanathon: Road to Mainnet. 
+**Between July 31 and August 18**, you can earn awards for building decentralized applications (dApps) with Soroban on the Stellar network, accompanied by explanatory content (such as written tutorials, video walkthroughs, etc.). This program is part of the Stellar Development Foundation’s $100M Soroban Adoption Fund and is a precursor to Sorobanathon: Road to Mainnet. 
 
 The goal of this program is to provide the structure for application developers to build with Soroban and provide the educational materials for other devs to get up and running quickly on the platform as we approach Mainnet launch. We’re looking for any type of dApp — from basic cryptographic games to NFT projects. Have some fun with it!
 
@@ -37,6 +37,8 @@ A submission is eligible to be awarded up to $1,500 if it contains all component
 **Note:** SDF is under no obligation to make any awards if there are no eligible submissions or Eligible Individuals (as defined below), or if Eligible Individuals do not successfully complete the compliance and tax obligations set forth below.
 
 ## Get Started
+
+**Submissions open on July 31st**
 
 If you haven't already, check out the [Soroban docs](https://soroban.stellar.org/docs) to get oriented, get set up, and get your head around the Soroban fundamentals. When you're ready to create a submission:
 
