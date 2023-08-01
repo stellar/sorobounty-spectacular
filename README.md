@@ -44,7 +44,7 @@ To help you get started, here are some example dapp resources that you can use a
 
 [Scaffold Soroban](https://github.com/stellar/scaffold-soroban): Take advantage of the examples, like soroban-react-payment and soroban-react-mint-token, to create robust dapps on Soroban, all while leveraging our powerful JavaScript SDKs.
 
-[Soroban Example Crowdfund dApp](https://github.com/stellar/soroban-example-dapp): Explore an awesome end-to-end (E2E) dapp example utilizing Next.js. This project demonstrates the step-by-step process of building a dapp frontend seamlessly integrated with smart contracts in a sandbox environment.
+[Soroban Example Crowdfund Dapp](https://github.com/stellar/soroban-example-dapp): Explore an awesome end-to-end (E2E) dapp example utilizing Next.js. This project demonstrates the step-by-step process of building a dapp frontend seamlessly integrated with smart contracts in a sandbox environment.
 
 ## Get started
 
