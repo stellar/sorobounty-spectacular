@@ -36,7 +36,7 @@ A submission is eligible to be awarded up to $1,500 if it contains all component
 
 **Note:** SDF is under no obligation to make any awards if there are no eligible submissions or Eligible Individuals (as defined below), or if Eligible Individuals do not successfully complete the compliance and tax obligations set forth below.
 
-## Example Dapp Resources 📚
+## Example dapp resources 📚
 
 To help you get started, here are some example dapp resources that you can use as references:
 
@@ -46,7 +46,7 @@ To help you get started, here are some example dapp resources that you can use a
 
 [Soroban Example Crowdfund dApp](https://github.com/stellar/soroban-example-dapp): Explore an awesome end-to-end (E2E) dapp example utilizing Next.js. This project demonstrates the step-by-step process of building a dapp frontend seamlessly integrated with smart contracts in a sandbox environment.
 
-## Get Started
+## Get started
 
 If you haven't already, check out the [Soroban docs](https://soroban.stellar.org/docs) to get oriented, get set up, and get your head around the Soroban fundamentals. When you're ready to create a submission:
 
@@ -84,9 +84,9 @@ So check out existing smart contract tutorials for inspiration.
 
 * As long as your submission contains an end-to-end smart contract deployed on the Stellar blockchain and has an interactive interface, you’re on the right track.
 
-## Sorobanathon Eligibility Guidelines
+## Sorobanathon eligibility guidelines
 
-### Submission Guidelines
+### Submission guidelines
 
 * All submission materials should be in English or, if not in English, include an English translation. 
 * Do not submit:
@@ -97,7 +97,7 @@ So check out existing smart contract tutorials for inspiration.
   - Other people’s work - no plagiarizing or infringing on a third party’s rights.
 * All submissions must be original works and the author should own all right, title and interest in the submission or, if third-party licensed content is included in a submission, all necessary rights must be fully sub-licensable to SDF. Submission should not include any content that is unlawful, breaches any third-party rights, or is otherwise in violation of or contrary to applicable laws or regulations. 
 
-### Award Eligibility Guidelines
+### Award eligibility guidelines
 
 While anyone may make a submission, only Eligible Individuals will be considered for XLM awards. For purposes of Sorobounty Spectacular, an “Eligible Individual'' is a natural person who:
 
@@ -108,11 +108,11 @@ While anyone may make a submission, only Eligible Individuals will be considered
 
 SDF reserves the right, in its absolute discretion, to disqualify any participant or submission, without warning, from Sorobounty Spectacular, and to ban them from future programs funded by the Soroban Adoption Fund if they act in a way that violates these guidelines, is inappropriate, or not in the best interests or spirit of the program.
 
-### License to Submissions
+### License to submissions
 
 By posting a submission, you will be granting to SDF and its assigns, licensees, and successors a royalty-free, irrevocable, non-exclusive and unlimited right and permission to use your submission, name, picture, statements, project name, likeness, and voice, and any material based thereon or derived therefrom (collectively, the **“Content”**), in any form, media, or technology now known or later developed, and to use, edit, modify, duplicate, distribute, publish, publicize and/or create derivative works from the Content (or any portion thereof), throughout the world, in perpetuity, without limitation and without payment of any royalties or compensation, consideration, notice or permission, except where prohibited by law, for the purpose of creating educational, informational, and promotional materials or creative assets (any such materials or assets that feature the Content are referred to herein as **“Assets”**), including, without limitation, on social media, or on any website owned or affiliated with SDF. You will have no right of approval, no claim to any compensation, and no claim arising out of the use, alteration, or distortion or use in any composite form of the Content. 
 
-### Legal Terms and Acknowledgements
+### Legal terms and acknowledgements
 
 Sorobounty Spectacular is governed by the SDF [Terms of Service](https://www.stellar.org/terms-of-service?locale=en) and the guidelines described herein (the “Sorobanathon Eligibility Guidelines”). SDF may collect personal information from you in connection with your submission, and such information is subject to the SDF [Privacy Policy](https://www.stellar.org/privacy-policy?locale=en).  SDF reserves the right, in its sole discretion, to cancel, suspend and/or modify all or any part of Sorobounty Spectacular at any time for any reason. The terms and conditions of Sorobounty Spectacular are subject to change at any time, including the rights or obligations of the Participants and SDF. 
 
