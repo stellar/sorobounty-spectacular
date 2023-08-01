@@ -14,6 +14,22 @@ Here are the kind of submissions we're looking for:
 
 Soroban is still in preview release and is live on Futurenet, a shared test network. You may encounter some problems as you are using the platform and various tools. We encourage you to report any problems or bugs you find in our [Stellar Developer Discord](https://discord.gg/stellardev) under the #soroban channels.
 
+## Example Dapp Resources 📚
+
+To help you get started, here are some example dapp resources that you can use as references:
+
+[The Soroban Dapps Challenge] empowers users to complete dApp development tasks, resulting in a Smart contract and UI/UX templates for future projects, along with an MVP to build upon. It offers developers practical experience and valuable resources to excel in your journey.
+
+[Scaffold Soroban] Take advantage of the examples, like soroban-react-payment and soroban-react-mint-token, to create robust dApps on Soroban, all while leveraging our powerful Javascript SDKs.
+
+[Soroban Example Crowdfund dApp] Explore an awesome End-to-End (E2E) dApp example utilizing Next.js. This project demonstrates the step-by-step process of building a dApp frontend seamlessly integrated with smart contracts in a sandbox environment.
+
+[Soroban Example Crowdfund dApp]:(https://github.com/stellar/soroban-example-dapp)
+
+[Scaffold Soroban]:(https://github.com/stellar/scaffold-soroban)
+
+[The Soroban Dapps Challenge]:(https://soroban.stellar.org/dapps/)
+
 ## What makes a good submission
 
 The Stellar Development Foundation (“SDF”) will review submissions as they come in, and all Sorobounty Spectacular awards are contingent upon review and approval of the submission by SDF, in its sole discretion.
