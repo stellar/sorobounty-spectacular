@@ -1,10 +1,10 @@
 # Welcome to Sorobounty Spectacular! 🎡
 
-**Between July 31 and August 25**, you can earn awards for building decentralized applications (dApps) with Soroban on the Stellar network, accompanied by explanatory content (such as written tutorials, video walkthroughs, etc.). This program is part of the Stellar Development Foundation’s $100M Soroban Adoption Fund and is a precursor to Sorobanathon: Road to Mainnet. 
+**Between July 31 and August 25**, you can get awards for building decentralized applications (dApps) with Soroban on the Stellar network, accompanied by explanatory content (such as written tutorials, video walkthroughs, etc.). This program is part of the Stellar Development Foundation’s $100M Soroban Adoption Fund and is a precursor to Sorobanathon: Road to Mainnet. 
 
 The goal of this program is to provide the structure for application developers to build with Soroban and provide the educational materials for other devs to get up and running quickly on the platform as we approach Mainnet launch. We’re looking for any type of dApp — from basic cryptographic games to NFT projects. Have some fun with it!
 
-For each qualified submission you create, you can earn an award of between $300 and $1,500 worth of XLM. 
+For each qualified submission you create, you can get an award of between $300 and $1,500 worth of XLM. 
 
 Here are the kind of submissions we're looking for:
 
@@ -51,7 +51,7 @@ If you haven't already, check out the [Soroban docs](https://soroban.stellar.org
 * Add your submission.  Feel free to put it right in the box, or to link to an external resource.
 * Once you have posted, you're done!
 
-We will review your submission within a week, and reply on your submission thread to let you know if your submission qualifies to earn an award! If so, we will ask you to complete a form to collect the info necessary to validate and deliver an award.
+We will review your submission within a week, and reply on your submission thread to let you know if your submission qualifies to get an award! If so, we will ask you to complete a form to collect the info necessary to validate and deliver an award.
 
 If your submission did not qualify, we may provide you with feedback on what's missing, or on how you can improve your submission so it qualifies. Once you have made the requested revisions, we will re-review your submission, and let you know if your submission qualifies for an award.
 
@@ -89,7 +89,7 @@ So check out existing smart contract tutorials for inspiration.
   - Other people’s work - no plagiarizing or infringing on a third party’s rights.
 * All submissions must be original works and the author should own all right, title and interest in the submission or, if third-party licensed content is included in a submission, all necessary rights must be fully sub-licensable to SDF. Submission should not include any content that is unlawful, breaches any third-party rights, or is otherwise in violation of or contrary to applicable laws or regulations. 
 
-### Reward Eligibility Guidelines
+### Award Eligibility Guidelines
 
 While anyone may make a submission, only Eligible Individuals will be considered for XLM awards. For purposes of Sorobounty Spectacular, an “Eligible Individual'' is a natural person who:
 
