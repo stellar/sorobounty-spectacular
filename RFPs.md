@@ -48,7 +48,7 @@ Ready to unleash your genius at the Sorobounty Spectacular? Submit away! But if 
 
 ### Utility & Services:
 
-- **DAO:** A DAO where members vote for a central decision-maker.
+- **DAO:** A decentralized autonomous organization that manages funds and makes decisions.
 - **Wager pool:** An account for placing and managing game wagers.
 - **IOU tracking:** Record and track money lending between friends.
 - **Payment splitter:** Divide incoming payments between two addresses automatically.
