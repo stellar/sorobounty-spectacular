@@ -58,3 +58,5 @@ Ready to unleash your genius at the Sorobounty Spectacular? Submit away! But if 
 - **Liquidity functions:** Contracts for depositing, withdrawing, and transferring funds.
 - **ZK proofs for oracles:** Zero-knowledge proofs to validate external data without revealing sources.
 - **Escrow:** A dapp that holds funds until a set of conditions are met.
+
+> Disclaimer: The  Sorobounty Spectacular is for educational purposes only and is designed to teach developers how to write code using Soroban by experimenting in a Sandbox environment. None of the materials provided as part of the  Sorobounty Spectacular shall be construed as financial, legal, or investment advice. Any developers that wish to subsequently launch any Soroban Dapps live on mainnet acknowledge that they do so independently, outside of the  Sorobounty Spectacular program. All such developers should ensure they have considered any applicable legal and compliance obligations in force in their jurisdiction.
