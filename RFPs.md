@@ -29,7 +29,6 @@ Ready to unleash your genius at the Sorobounty Spectacular? Submit away! But if 
 ### Financial Tools:
 
 - **Payment streaming:** Platforms like [sablier.finance](https://sablier.finance/) or [llamapay.io](https://llamapay.io/) allow continuous payment streams.
-
 - **Auto portfolio balancer:** Dynamically adjust portfolio allocations based on specified percentages.
 - **Fixed interest rate market:** A market to reward bids at a fixed interest.
 - **Crowdfunding:** Collect funds for a project, with distribution upon reaching goals.
